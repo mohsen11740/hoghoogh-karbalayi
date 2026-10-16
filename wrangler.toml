@@ -1,0 +1,6 @@
+name = "k-low-legal"
+pages_build_output_dir = "public"
+compatibility_date = "2026-10-16"
+
+[ai]
+binding = "AI"
